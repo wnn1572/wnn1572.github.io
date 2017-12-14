@@ -3,34 +3,20 @@
   
     
     <entry>
-      <title><![CDATA[test]]></title>
-      <url>/2017/12/14/test/</url>
-      <content type="html"><![CDATA[<p>介绍部分</p>
-<h3 id="优惠劵部分"><a href="#优惠劵部分" class="headerlink" title="优惠劵部分"></a>优惠劵部分</h3><p><img src="优惠卷.png" alt=""></p>
-<p><img src="优惠券已使用.png" alt=""></p>
-<p><img src="优惠券已过期.png" alt=""></p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[奢GO作品展示]]></title>
-      <url>/2017/12/14/hello-world/</url>
-      <content type="html"><![CDATA[<h3 id="优惠卷部分"><a href="#优惠卷部分" class="headerlink" title="优惠卷部分"></a>优惠卷部分</h3><p><img src="logo.jpeg" alt=""><br><img src="/images/logo.jpeg" alt=""><br><img src="./logo.jpeg" alt=""><br></p>
-<p><img src="/奢GO作品展示/优惠券已使用.png" alt=""></p>
-<p><img src="/奢GO作品展示/优惠券已过期.png" alt=""></p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[奢GO 作品展示]]></title>
-      <url>/2017/12/14/%20%E5%A5%A2GO%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA/</url>
-      <content type="html"><![CDATA[<h3 id="优惠卷部分"><a href="#优惠卷部分" class="headerlink" title="优惠卷部分"></a>优惠卷部分</h3><p><img src="./_image/优惠券.png" alt=""></p>
-<p><img src="./_image/优惠券已使用.png" alt=""></p>
-<p><img src="./_image/优惠券已过期.png" alt=""></p>
+      <url>/2017/12/14/%E5%A5%A2GO%E4%BD%9C%E5%93%81%E5%B1%95%E7%A4%BA/</url>
+      <content type="html"><![CDATA[<p>这个地方写大概的描述<br><a id="more"></a></p>
+<h3 id="一、首页部分"><a href="#一、首页部分" class="headerlink" title="一、首页部分"></a>一、首页部分</h3><h4 id="首页"><a href="#首页" class="headerlink" title="首页"></a>首页</h4><p><img src="首页.png" alt="首页"></p>
+<h4 id="专场页面"><a href="#专场页面" class="headerlink" title="专场页面"></a>专场页面</h4><p><img src="丽人专场.png" alt=""></p>
+<h4 id="详情页面"><a href="#详情页面" class="headerlink" title="详情页面"></a>详情页面</h4><p><img src="商品详情.png" alt=""></p>
+<h3 id="二、优惠卷部分"><a href="#二、优惠卷部分" class="headerlink" title="二、优惠卷部分"></a>二、优惠卷部分</h3><h4 id="优惠卷"><a href="#优惠卷" class="headerlink" title="优惠卷"></a>优惠卷</h4><p><img src="优惠卷.png" alt=""></p>
+<h4 id="已使用优惠卷"><a href="#已使用优惠卷" class="headerlink" title="已使用优惠卷"></a>已使用优惠卷</h4><p><img src="优惠券已使用.png" alt=""></p>
+<h4 id="已经过期的优惠卷"><a href="#已经过期的优惠卷" class="headerlink" title="已经过期的优惠卷"></a>已经过期的优惠卷</h4><p><img src="优惠券已过期.png" alt=""></p>
+<h3 id="三、分类展示部分"><a href="#三、分类展示部分" class="headerlink" title="三、分类展示部分"></a>三、分类展示部分</h3><h4 id="分类1"><a href="#分类1" class="headerlink" title="分类1"></a>分类1</h4><p><img src="分类1.png" alt=""></p>
+<h4 id="分类2"><a href="#分类2" class="headerlink" title="分类2"></a>分类2</h4><p><img src="分类2.png" alt=""></p>
+<h4 id="分类3"><a href="#分类3" class="headerlink" title="分类3"></a>分类3</h4><p><img src="分类3.png" alt=""></p>
+<h4 id="分类4"><a href="#分类4" class="headerlink" title="分类4"></a>分类4</h4><p><img src="分类4.png" alt=""></p>
+<h4 id="分类5"><a href="#分类5" class="headerlink" title="分类5"></a>分类5</h4><p><img src="分类5.png" alt=""></p>
 ]]></content>
       
         
